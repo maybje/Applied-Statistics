@@ -1,2 +1,3 @@
 # MA321
-Assignment
+Assignment:
+- Exploratory Analysis
