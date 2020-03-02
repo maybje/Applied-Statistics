@@ -178,3 +178,4 @@ ggarrange(ggplot()+geom_bar(data=data[,categorical], aes(Street)),
           ggplot()+geom_bar(data=data[,categorical], aes(Condition1)),
           ggplot()+geom_bar(data=data[,categorical], aes(SaleCondition)), ncol=3, nrow=2)
 
+write.csv(data, "data_log_imputed.csv", row.names = F)
