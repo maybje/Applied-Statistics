@@ -1,3 +1,3 @@
-# MA321
+# Applied Statistics
 Assignment:
 - Exploratory Analysis
