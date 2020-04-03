@@ -14,9 +14,9 @@ library(ggplot2)
 library(reshape2)
 
 #setting working directory
-setwd("D:/Documentos/Essex/Applied Statistics/assignment 2")
+setwd("your wd")
 #importing data
-data=read.csv("D:/Documentos/Essex/Applied Statistics/assignment 2/house_data.csv")
+data=read.csv("your wd/house_data.csv")
 
 #Get data class
 data_class=lapply(data, class)
