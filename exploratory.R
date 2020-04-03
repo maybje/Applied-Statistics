@@ -1,5 +1,8 @@
 ##################################
 #MA321 Group Assignment
+#Exploratory Analysis
+#Jorge Eduardo Maya Bautista
+#Github: maybje
 ##################################
 rm(list = ls())
 library(pastecs)
