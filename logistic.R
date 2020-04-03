@@ -1,6 +1,8 @@
 ##################################
 #MA321 Group Assignment
-#Logistic Regression
+#Multinomial Logistic Regression
+#Jorge Eduardo Maya Bautista
+#Github: maybje
 ##################################
 rm(list = ls()) #clearing working space
 #loading libraries
@@ -17,7 +19,7 @@ library(tidyr)
 library(kableExtra)
 
 #setting wd
-setwd("D:/Documentos/Essex/Applied Statistics/assignment 2")
+setwd("your wd")
 wd=getwd()
 data=read.csv(paste0(wd,"/data_log_imputed.csv")) #loading data
 
