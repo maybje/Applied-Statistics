@@ -1,6 +1,8 @@
 ##################################
 #MA321 Group Assignment
 #Clustering Analysis
+#Jorge Eduardo Maya Bautista
+#Github: maybje
 ##################################
 rm(list = ls()) #Clearing working space
 #Loading categories
@@ -12,7 +14,7 @@ library(scales)
 library(dbscan)
 
 #defining working directory
-setwd("D:/Documentos/Essex/Applied Statistics/assignment 2")
+setwd("your wd")
 wd=getwd()
 data=read.csv(paste0(wd,"/pca_set.txt"))  #loading data
 
