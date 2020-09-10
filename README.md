@@ -1,4 +1,4 @@
-# Predicting House Prices
+# Predicting House Condition
 Applied Statistics Project:
 - Exploratory Analysis
 - Multinomial Logistic Regression
